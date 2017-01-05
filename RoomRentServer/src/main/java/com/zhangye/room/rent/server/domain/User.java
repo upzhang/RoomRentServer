@@ -1,4 +1,4 @@
-package com.luo.domain;
+package com.zhangye.room.rent.server.domain;
 
 public class User {
 	

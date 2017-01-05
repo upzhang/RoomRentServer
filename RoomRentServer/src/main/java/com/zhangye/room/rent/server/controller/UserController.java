@@ -1,4 +1,4 @@
-package com.luo.controller;
+package com.zhangye.room.rent.server.controller;
 
 import java.io.IOException;
 
@@ -12,8 +12,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
-import com.luo.domain.User;
-import com.luo.service.UserService;
+
+import com.zhangye.room.rent.server.domain.User;
+import com.zhangye.room.rent.server.service.UserService;
 
 @Controller  
 public class UserController {  

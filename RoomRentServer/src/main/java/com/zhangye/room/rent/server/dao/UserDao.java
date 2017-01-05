@@ -1,6 +1,6 @@
-package com.luo.dao;
+package com.zhangye.room.rent.server.dao;
 
-import com.luo.domain.User;
+import com.zhangye.room.rent.server.domain.User;
 
 public interface UserDao {
 	

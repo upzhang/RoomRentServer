@@ -1,9 +1,10 @@
-package com.luo.service;
+package com.zhangye.room.rent.server.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import com.luo.dao.UserDao;
-import com.luo.domain.User;
+
+import com.zhangye.room.rent.server.dao.UserDao;
+import com.zhangye.room.rent.server.domain.User;
 
 @Service  
 public class UserServiceImpl implements UserService {
